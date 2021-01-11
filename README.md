@@ -9,7 +9,8 @@ author and metadata of the story.
 * Direct Parsing of Links
 * Modification of bot behaviour for the users.
 * Support for [fanfiction.net][ffn], [fictionpress.com][fp],
-  [hpfanficarchive.com][ffa], [archiveofourown.org][ao3], [siye.co.uk][siye] and
+  [hpfanficarchive.com][ffa], [archiveofourown.org][ao3],
+  [harrypotterfanfiction.com][hpff], [siye.co.uk][siye] and
   [adultfanfiction.com][aff]
 
 ## Deployment and Installation
@@ -73,9 +74,10 @@ You can find our pull request page here: [Pull Requests][github:pull-requests]
 [ffn]: https://www.fanfiction.net/
 [fp]:  https://www.fictionpress.com/
 [ffa]: http://hpfanficarchive.com/
-[ao3]: http://archiveofown.org/
+[ao3]: https://archiveofourown.org/
 [aff]: http://www.adultfanfiction.net/
 [siye]: http://www.siye.co.uk/
+[hpff]: https://harrypotterfanfiction.com/
 
 [github:bleeding]:      https://github.com/tusing/reddit-ffn-bot/tree/bleeding
 [github:issues]:        https://github.com/tusing/reddit-ffn-bot/issues
